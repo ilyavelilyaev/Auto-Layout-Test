@@ -1,0 +1,6 @@
+framework module Pods_Auto_Layout_TestTests {
+  umbrella header "Pods-Auto Layout TestTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
